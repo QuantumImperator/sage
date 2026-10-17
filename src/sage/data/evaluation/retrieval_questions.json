@@ -1,0 +1,34 @@
+
+[
+  {
+    "id": "q001",
+    "question": "How does the eye lens focus light on the retina?",
+    "relevant_pages": [],
+    "expected_concept": "focusing light on the retina"
+  },
+  {
+    "id": "q002",
+    "question": "What is the function of the ciliary muscles?",
+    "relevant_pages": [],
+    "expected_concept": "adjusting the eye lens"
+  },
+  {
+    "id": "q003",
+    "question": "How is myopia corrected?",
+    "relevant_pages": [],
+    "expected_concept": "correction using a suitable concave lens"
+  },
+  {
+    "id": "q004",
+    "question": "How is hypermetropia corrected?",
+    "relevant_pages": [],
+    "expected_concept": "correction using a suitable convex lens"
+  },
+  {
+    "id": "q005",
+    "question": "Why does the sky appear blue?",
+    "relevant_pages": [],
+    "expected_concept": "scattering of light"
+  }
+]
+

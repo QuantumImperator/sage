@@ -1,0 +1,337 @@
+[
+  {
+    "id": "q001",
+    "question": "How does the eye lens focus light on the retina?",
+    "expected_concept": "focusing light on the retina",
+    "retrievals": {
+      "bm25": [
+        {
+          "chunk_id": "jesc110-p1-c3",
+          "page": 1,
+          "score": 10.614390383714982,
+          "content": "sitive\nscreen called the retina. Light enters the eye\nthrough a thin membrane called the cornea.\nIt forms the transparent bulge on the front\nsurface of the eyeball as shown in Fig. 10.1.\nThe eyeball is approximately spherical in shape\nwith a diameter of about 2.3 cm. Most of the\nrefraction for the light rays entering the eye\noccurs at the outer surface of the cornea. The\ncrystalline lens merely provides the finer\nadjustment of focal length required to focus\nobjects at different distances on the retina. We find a structure called iris\nbehind the cornea. Iris is a dark muscular diaphragm that controls the\nsize of the pupil.  The pupil regulates and controls the amount of light\nFigure 10.1\nFigure 10.1\nFigure 10.1\nFigure 10.1\nFigure 10.1\nThe human eye\nReprint 2026-27"
+        },
+        {
+          "chunk_id": "jesc110-p10-c2",
+          "page": 10,
+          "score": 10.15980371330164,
+          "content": "ts is focussed beyond\nthe retina) is corrected by using a convex lens of suitable power. The eye loses its\npower of accommodation at old age.\nn\nThe splitting of white light into its component colours is called dispersion.\nn\nScattering of light causes the blue colour of sky.\nE\nX\nE\nR\nC\nI\nS\nE\nS\n1.\nThe human eye can focus on objects at different distances by adjusting the focal\nlength of the eye lens. This is due to\n (a)\npresbyopia.\n(b)\naccommodation.\n(c)\nnear-sightedness.\n(d)\nfar-sightedness.\n2.\nThe human eye forms the image of an object at  its\n (a)\ncornea.\n(b)  iris.\n(c)  pupil.\n(d)  retina.\n3.\nThe least distance of distinct vision for a young adult with normal vision is about\n (a)\n25 m.\n(b)  2.5 cm.\n(c)  25 cm.\n(d)  2.5 m.\n4.\nThe change in focal length of an eye lens is caused by the actio"
+        },
+        {
+          "chunk_id": "jesc110-p10-c1",
+          "page": 10,
+          "score": 9.581050697970806,
+          "content": "Science\n170\nWhat you have learnt\nn\nThe ability of the eye to focus on both near and distant objects, by adjusting its\nfocal length, is called the accommodation of the eye.\nn\nThe smallest distance, at which the eye can see objects clearly without strain, is\ncalled the near point of the eye or the least distance of distinct vision.  For a young\nadult with normal vision, it is about 25 cm.\nn\nThe common refractive defects of vision include myopia, hypermetropia and\npresbyopia. Myopia (short-sightedness – the image of distant objects is focussed\nbefore the retina) is corrected by using a concave lens of suitable power.\nHypermetropia (far-sightedness – the image of nearby objects is focussed beyond\nthe retina) is corrected by using a convex lens of suitable power. The eye loses its\npower of acco"
+        }
+      ],
+      "semantic": [
+        {
+          "chunk_id": "jesc110-p2-c1",
+          "page": 2,
+          "score": 0.7682815790176392,
+          "content": "Science\n162\nentering the eye. The eye lens forms an inverted real image of the object\non the retina. The retina is a delicate membrane having enormous\nnumber of light-sensitive cells.  The light-sensitive cells get activated\nupon illumination and generate electrical signals.  These signals are\nsent to the brain via the optic nerves.  The brain interprets these signals,\nand finally, processes the information so that we perceive objects as\nthey are.\n10.1.1 Power of Accommodation\nThe eye lens is composed of a fibrous, jelly-like material. Its curvature\ncan be modified to some extent by the ciliary muscles. The change in the\ncurvature of the eye lens can thus change its focal length. When the\nmuscles are relaxed, the lens becomes thin. Thus, its focal length\nincreases.  This enables us to see"
+        },
+        {
+          "chunk_id": "jesc110-p1-c3",
+          "page": 1,
+          "score": 0.7647968530654907,
+          "content": "sitive\nscreen called the retina. Light enters the eye\nthrough a thin membrane called the cornea.\nIt forms the transparent bulge on the front\nsurface of the eyeball as shown in Fig. 10.1.\nThe eyeball is approximately spherical in shape\nwith a diameter of about 2.3 cm. Most of the\nrefraction for the light rays entering the eye\noccurs at the outer surface of the cornea. The\ncrystalline lens merely provides the finer\nadjustment of focal length required to focus\nobjects at different distances on the retina. We find a structure called iris\nbehind the cornea. Iris is a dark muscular diaphragm that controls the\nsize of the pupil.  The pupil regulates and controls the amount of light\nFigure 10.1\nFigure 10.1\nFigure 10.1\nFigure 10.1\nFigure 10.1\nThe human eye\nReprint 2026-27"
+        },
+        {
+          "chunk_id": "jesc110-p10-c2",
+          "page": 10,
+          "score": 0.7604950070381165,
+          "content": "ts is focussed beyond\nthe retina) is corrected by using a convex lens of suitable power. The eye loses its\npower of accommodation at old age.\nn\nThe splitting of white light into its component colours is called dispersion.\nn\nScattering of light causes the blue colour of sky.\nE\nX\nE\nR\nC\nI\nS\nE\nS\n1.\nThe human eye can focus on objects at different distances by adjusting the focal\nlength of the eye lens. This is due to\n (a)\npresbyopia.\n(b)\naccommodation.\n(c)\nnear-sightedness.\n(d)\nfar-sightedness.\n2.\nThe human eye forms the image of an object at  its\n (a)\ncornea.\n(b)  iris.\n(c)  pupil.\n(d)  retina.\n3.\nThe least distance of distinct vision for a young adult with normal vision is about\n (a)\n25 m.\n(b)  2.5 cm.\n(c)  25 cm.\n(d)  2.5 m.\n4.\nThe change in focal length of an eye lens is caused by the actio"
+        }
+      ],
+      "hybrid": [
+        {
+          "chunk_id": "jesc110-p1-c3",
+          "page": 1,
+          "score": 0.03252247488101534,
+          "content": "sitive\nscreen called the retina. Light enters the eye\nthrough a thin membrane called the cornea.\nIt forms the transparent bulge on the front\nsurface of the eyeball as shown in Fig. 10.1.\nThe eyeball is approximately spherical in shape\nwith a diameter of about 2.3 cm. Most of the\nrefraction for the light rays entering the eye\noccurs at the outer surface of the cornea. The\ncrystalline lens merely provides the finer\nadjustment of focal length required to focus\nobjects at different distances on the retina. We find a structure called iris\nbehind the cornea. Iris is a dark muscular diaphragm that controls the\nsize of the pupil.  The pupil regulates and controls the amount of light\nFigure 10.1\nFigure 10.1\nFigure 10.1\nFigure 10.1\nFigure 10.1\nThe human eye\nReprint 2026-27"
+        },
+        {
+          "chunk_id": "jesc110-p2-c1",
+          "page": 2,
+          "score": 0.032018442622950824,
+          "content": "Science\n162\nentering the eye. The eye lens forms an inverted real image of the object\non the retina. The retina is a delicate membrane having enormous\nnumber of light-sensitive cells.  The light-sensitive cells get activated\nupon illumination and generate electrical signals.  These signals are\nsent to the brain via the optic nerves.  The brain interprets these signals,\nand finally, processes the information so that we perceive objects as\nthey are.\n10.1.1 Power of Accommodation\nThe eye lens is composed of a fibrous, jelly-like material. Its curvature\ncan be modified to some extent by the ciliary muscles. The change in the\ncurvature of the eye lens can thus change its focal length. When the\nmuscles are relaxed, the lens becomes thin. Thus, its focal length\nincreases.  This enables us to see"
+        },
+        {
+          "chunk_id": "jesc110-p10-c2",
+          "page": 10,
+          "score": 0.03200204813108039,
+          "content": "ts is focussed beyond\nthe retina) is corrected by using a convex lens of suitable power. The eye loses its\npower of accommodation at old age.\nn\nThe splitting of white light into its component colours is called dispersion.\nn\nScattering of light causes the blue colour of sky.\nE\nX\nE\nR\nC\nI\nS\nE\nS\n1.\nThe human eye can focus on objects at different distances by adjusting the focal\nlength of the eye lens. This is due to\n (a)\npresbyopia.\n(b)\naccommodation.\n(c)\nnear-sightedness.\n(d)\nfar-sightedness.\n2.\nThe human eye forms the image of an object at  its\n (a)\ncornea.\n(b)  iris.\n(c)  pupil.\n(d)  retina.\n3.\nThe least distance of distinct vision for a young adult with normal vision is about\n (a)\n25 m.\n(b)  2.5 cm.\n(c)  25 cm.\n(d)  2.5 m.\n4.\nThe change in focal length of an eye lens is caused by the actio"
+        }
+      ]
+    }
+  },
+  {
+    "id": "q002",
+    "question": "What is the function of the ciliary muscles?",
+    "expected_concept": "adjusting the eye lens",
+    "retrievals": {
+      "bm25": [
+        {
+          "chunk_id": "jesc110-p10-c3",
+          "page": 10,
+          "score": 11.727018599775302,
+          "content": "bout\n (a)\n25 m.\n(b)  2.5 cm.\n(c)  25 cm.\n(d)  2.5 m.\n4.\nThe change in focal length of an eye lens is caused by the action of the\n (a)\npupil.\n(b)  retina.\n(c) ciliary muscles.\n(d)  iris.\n5.\nA person needs a lens of power –5.5 dioptres for correcting his distant vision. For\ncorrecting his near vision he needs a lens of power +1.5 dioptre. What is the focal\nlength of the lens required for correcting (i) distant vision, and (ii) near vision?\n6.\nThe far point of a myopic person is 80 cm in front of the eye. What is the nature and\npower of the lens required to correct the problem?\n7.\nMake a diagram to show how hypermetropia is corrected. The near point of a\nhypermetropic eye is 1 m. What is the power of the lens required to correct this\ndefect? Assume that the near point of the normal eye is 25"
+        },
+        {
+          "chunk_id": "jesc110-p2-c1",
+          "page": 2,
+          "score": 10.304846114646274,
+          "content": "Science\n162\nentering the eye. The eye lens forms an inverted real image of the object\non the retina. The retina is a delicate membrane having enormous\nnumber of light-sensitive cells.  The light-sensitive cells get activated\nupon illumination and generate electrical signals.  These signals are\nsent to the brain via the optic nerves.  The brain interprets these signals,\nand finally, processes the information so that we perceive objects as\nthey are.\n10.1.1 Power of Accommodation\nThe eye lens is composed of a fibrous, jelly-like material. Its curvature\ncan be modified to some extent by the ciliary muscles. The change in the\ncurvature of the eye lens can thus change its focal length. When the\nmuscles are relaxed, the lens becomes thin. Thus, its focal length\nincreases.  This enables us to see"
+        },
+        {
+          "chunk_id": "jesc110-p2-c2",
+          "page": 2,
+          "score": 9.799810646557503,
+          "content": "length. When the\nmuscles are relaxed, the lens becomes thin. Thus, its focal length\nincreases.  This enables us to see distant objects clearly. When you are\nlooking at objects closer to the eye, the ciliary muscles contract. This\nincreases the curvature of the eye lens. The eye lens then becomes thicker.\nConsequently, the focal length of the eye lens decreases.  This enables\nus to see nearby objects clearly.\nThe ability of the eye lens to adjust its focal length is called\naccommodation.  However, the focal length of the eye lens cannot be\ndecreased below a certain minimum limit.  Try to read a printed page by\nholding it very close to your eyes. You may see the image being blurred\nor feel strain in the eye. To see an object comfortably and distinctly, you\nmust hold it at about 25 cm from t"
+        }
+      ],
+      "semantic": [
+        {
+          "chunk_id": "jesc110-p2-c1",
+          "page": 2,
+          "score": 0.6675810813903809,
+          "content": "Science\n162\nentering the eye. The eye lens forms an inverted real image of the object\non the retina. The retina is a delicate membrane having enormous\nnumber of light-sensitive cells.  The light-sensitive cells get activated\nupon illumination and generate electrical signals.  These signals are\nsent to the brain via the optic nerves.  The brain interprets these signals,\nand finally, processes the information so that we perceive objects as\nthey are.\n10.1.1 Power of Accommodation\nThe eye lens is composed of a fibrous, jelly-like material. Its curvature\ncan be modified to some extent by the ciliary muscles. The change in the\ncurvature of the eye lens can thus change its focal length. When the\nmuscles are relaxed, the lens becomes thin. Thus, its focal length\nincreases.  This enables us to see"
+        },
+        {
+          "chunk_id": "jesc110-p2-c2",
+          "page": 2,
+          "score": 0.6298249959945679,
+          "content": "length. When the\nmuscles are relaxed, the lens becomes thin. Thus, its focal length\nincreases.  This enables us to see distant objects clearly. When you are\nlooking at objects closer to the eye, the ciliary muscles contract. This\nincreases the curvature of the eye lens. The eye lens then becomes thicker.\nConsequently, the focal length of the eye lens decreases.  This enables\nus to see nearby objects clearly.\nThe ability of the eye lens to adjust its focal length is called\naccommodation.  However, the focal length of the eye lens cannot be\ndecreased below a certain minimum limit.  Try to read a printed page by\nholding it very close to your eyes. You may see the image being blurred\nor feel strain in the eye. To see an object comfortably and distinctly, you\nmust hold it at about 25 cm from t"
+        },
+        {
+          "chunk_id": "jesc110-p4-c2",
+          "page": 4,
+          "score": 0.6193385124206543,
+          "content": "ind when eyes have to be donated?\nn\nEye donors can belong to any age group or sex. People who use spectacles, or those\noperated for cataract, can still donate the eyes. People who are diabetic, have\nhypertension, asthma patients and those without communicable diseases can also\ndonate eyes.\nweakening of the ciliary muscles and diminishing flexibility of the\neye lens.  Sometimes, a person may suffer from both myopia and\nhypermetropia.  Such people often require bi-focal lenses. A common\ntype of bi-focal lenses consists of both concave and convex lenses.\nThe upper portion consists of a concave lens. It facilitates distant\nvision. The lower part is a convex lens.  It facilitates near vision.\n  These days, it is possible to correct the refractive defects with\ncontact lenses or through surgical"
+        }
+      ],
+      "hybrid": [
+        {
+          "chunk_id": "jesc110-p2-c1",
+          "page": 2,
+          "score": 0.03252247488101534,
+          "content": "Science\n162\nentering the eye. The eye lens forms an inverted real image of the object\non the retina. The retina is a delicate membrane having enormous\nnumber of light-sensitive cells.  The light-sensitive cells get activated\nupon illumination and generate electrical signals.  These signals are\nsent to the brain via the optic nerves.  The brain interprets these signals,\nand finally, processes the information so that we perceive objects as\nthey are.\n10.1.1 Power of Accommodation\nThe eye lens is composed of a fibrous, jelly-like material. Its curvature\ncan be modified to some extent by the ciliary muscles. The change in the\ncurvature of the eye lens can thus change its focal length. When the\nmuscles are relaxed, the lens becomes thin. Thus, its focal length\nincreases.  This enables us to see"
+        },
+        {
+          "chunk_id": "jesc110-p2-c2",
+          "page": 2,
+          "score": 0.03200204813108039,
+          "content": "length. When the\nmuscles are relaxed, the lens becomes thin. Thus, its focal length\nincreases.  This enables us to see distant objects clearly. When you are\nlooking at objects closer to the eye, the ciliary muscles contract. This\nincreases the curvature of the eye lens. The eye lens then becomes thicker.\nConsequently, the focal length of the eye lens decreases.  This enables\nus to see nearby objects clearly.\nThe ability of the eye lens to adjust its focal length is called\naccommodation.  However, the focal length of the eye lens cannot be\ndecreased below a certain minimum limit.  Try to read a printed page by\nholding it very close to your eyes. You may see the image being blurred\nor feel strain in the eye. To see an object comfortably and distinctly, you\nmust hold it at about 25 cm from t"
+        },
+        {
+          "chunk_id": "jesc110-p10-c3",
+          "page": 10,
+          "score": 0.03177805800756621,
+          "content": "bout\n (a)\n25 m.\n(b)  2.5 cm.\n(c)  25 cm.\n(d)  2.5 m.\n4.\nThe change in focal length of an eye lens is caused by the action of the\n (a)\npupil.\n(b)  retina.\n(c) ciliary muscles.\n(d)  iris.\n5.\nA person needs a lens of power –5.5 dioptres for correcting his distant vision. For\ncorrecting his near vision he needs a lens of power +1.5 dioptre. What is the focal\nlength of the lens required for correcting (i) distant vision, and (ii) near vision?\n6.\nThe far point of a myopic person is 80 cm in front of the eye. What is the nature and\npower of the lens required to correct the problem?\n7.\nMake a diagram to show how hypermetropia is corrected. The near point of a\nhypermetropic eye is 1 m. What is the power of the lens required to correct this\ndefect? Assume that the near point of the normal eye is 25"
+        }
+      ]
+    }
+  },
+  {
+    "id": "q003",
+    "question": "How is myopia corrected?",
+    "expected_concept": "correction using a suitable concave lens",
+    "retrievals": {
+      "bm25": [
+        {
+          "chunk_id": "jesc110-p3-c1",
+          "page": 3,
+          "score": 5.910120228885411,
+          "content": "The Human Eye and the Colourful World\n163\n(a)\nMyopia\nMyopia is also known as near-\nsightedness. A person with myopia\ncan see nearby objects clearly but\ncannot see distant objects distinctly.\nA person with this defect has the far\npoint nearer than infinity. Such a\nperson may see clearly upto a\ndistance of a few metres. In a myopic\neye, the image of a distant object is\nformed in front of the retina [Fig.\n10.2 (b)] and not at the retina itself.\nThis defect may arise due to (i)\nexcessive curvature of the eye lens,\nor (ii) elongation of the eyeball. This\ndefect can be corrected by using a\nconcave lens of suitable power. This\nis illustrated in Fig. 10.2 (c). A\nconcave lens of suitable power will\nbring the image back on to the\nretina and thus the defect is corrected.\n(b)\nHypermetropia\nHypermetrop"
+        },
+        {
+          "chunk_id": "jesc110-p10-c1",
+          "page": 10,
+          "score": 5.734703319447017,
+          "content": "Science\n170\nWhat you have learnt\nn\nThe ability of the eye to focus on both near and distant objects, by adjusting its\nfocal length, is called the accommodation of the eye.\nn\nThe smallest distance, at which the eye can see objects clearly without strain, is\ncalled the near point of the eye or the least distance of distinct vision.  For a young\nadult with normal vision, it is about 25 cm.\nn\nThe common refractive defects of vision include myopia, hypermetropia and\npresbyopia. Myopia (short-sightedness – the image of distant objects is focussed\nbefore the retina) is corrected by using a concave lens of suitable power.\nHypermetropia (far-sightedness – the image of nearby objects is focussed beyond\nthe retina) is corrected by using a convex lens of suitable power. The eye loses its\npower of acco"
+        },
+        {
+          "chunk_id": "jesc110-p2-c4",
+          "page": 2,
+          "score": 4.208779912545772,
+          "content": "is condition is called cataract. This causes partial or complete\nloss of vision. It is possible to restore vision through a cataract surgery.\n10.2 DEFECTS OF VISION AND THEIR CORRECTION\n10.2 DEFECTS OF VISION AND THEIR CORRECTION\n10.2 DEFECTS OF VISION AND THEIR CORRECTION\n10.2 DEFECTS OF VISION AND THEIR CORRECTION\n10.2 DEFECTS OF VISION AND THEIR CORRECTION\nSometimes, the eye may gradually lose its power of accommodation.\nIn such conditions, the person cannot see the objects distinctly and\ncomfortably. The vision becomes blurred due to the refractive defects\nof the eye.\nThere are mainly three common refractive defects of vision. These\nare (i) myopia or near-sightedness, (ii) Hypermetropia or far-\nsightedness, and (iii) Presbyopia.  These defects can be corrected by\nthe use of suitable sp"
+        }
+      ],
+      "semantic": [
+        {
+          "chunk_id": "jesc110-p3-c3",
+          "page": 3,
+          "score": 0.7845204472541809,
+          "content": "too small.\nThis defect can be corrected by using a convex\nlens of appropriate power. This is illustrated in\nFig. 10.3 (c). Eye-glasses with converging lenses\nprovide the additional focussing power required\nfor forming the image on the retina.\n(c)   Presbyopia\nThe power of accommodation of the eye usually\ndecreases with ageing. For most people, the near\npoint gradually recedes away. They find it difficult\nto see nearby objects comfortably and distinctly\nwithout corrective eye-glasses.  This defect is\ncalled Presbyopia.  It arises due to the gradual\nFigure 10.2\nFigure 10.2\nFigure 10.2\nFigure 10.2\nFigure 10.2\n(a), (b) The myopic eye, and (c) correction for myopia with a\nconcave lens\nFigure 10.3\nFigure 10.3\nFigure 10.3\nFigure 10.3\nFigure 10.3\n(a), (b) The hypermetropic eye, and (c)\ncorrection"
+        },
+        {
+          "chunk_id": "jesc110-p4-c3",
+          "page": 4,
+          "score": 0.7741798162460327,
+          "content": "tes near vision.\n  These days, it is possible to correct the refractive defects with\ncontact lenses or through surgical interventions.\nQ\nU\nE\nS\nT\nI\nO\nN\nS\n?\n1.\nWhat is meant by power of accommodation of the eye?\n2.\nA person with a myopic eye cannot see objects beyond 1.2 m distinctly.\nWhat should be the type of the corrective lens used to restore proper\nvision?\n3.\nWhat is the far point and near point of the human eye with normal\nvision?\n4.\nA student has difficulty reading the blackboard while sitting in the last\nrow. What could be the defect the child is suffering from? How can it be\ncorrected?\nReprint 2026-27"
+        },
+        {
+          "chunk_id": "jesc110-p2-c5",
+          "page": 2,
+          "score": 0.7608092427253723,
+          "content": "(ii) Hypermetropia or far-\nsightedness, and (iii) Presbyopia.  These defects can be corrected by\nthe use of suitable spherical lenses. We discuss below these defects\nand their correction.\nReprint 2026-27"
+        }
+      ],
+      "hybrid": [
+        {
+          "chunk_id": "jesc110-p3-c1",
+          "page": 3,
+          "score": 0.032018442622950824,
+          "content": "The Human Eye and the Colourful World\n163\n(a)\nMyopia\nMyopia is also known as near-\nsightedness. A person with myopia\ncan see nearby objects clearly but\ncannot see distant objects distinctly.\nA person with this defect has the far\npoint nearer than infinity. Such a\nperson may see clearly upto a\ndistance of a few metres. In a myopic\neye, the image of a distant object is\nformed in front of the retina [Fig.\n10.2 (b)] and not at the retina itself.\nThis defect may arise due to (i)\nexcessive curvature of the eye lens,\nor (ii) elongation of the eyeball. This\ndefect can be corrected by using a\nconcave lens of suitable power. This\nis illustrated in Fig. 10.2 (c). A\nconcave lens of suitable power will\nbring the image back on to the\nretina and thus the defect is corrected.\n(b)\nHypermetropia\nHypermetrop"
+        },
+        {
+          "chunk_id": "jesc110-p3-c3",
+          "page": 3,
+          "score": 0.03177805800756621,
+          "content": "too small.\nThis defect can be corrected by using a convex\nlens of appropriate power. This is illustrated in\nFig. 10.3 (c). Eye-glasses with converging lenses\nprovide the additional focussing power required\nfor forming the image on the retina.\n(c)   Presbyopia\nThe power of accommodation of the eye usually\ndecreases with ageing. For most people, the near\npoint gradually recedes away. They find it difficult\nto see nearby objects comfortably and distinctly\nwithout corrective eye-glasses.  This defect is\ncalled Presbyopia.  It arises due to the gradual\nFigure 10.2\nFigure 10.2\nFigure 10.2\nFigure 10.2\nFigure 10.2\n(a), (b) The myopic eye, and (c) correction for myopia with a\nconcave lens\nFigure 10.3\nFigure 10.3\nFigure 10.3\nFigure 10.3\nFigure 10.3\n(a), (b) The hypermetropic eye, and (c)\ncorrection"
+        },
+        {
+          "chunk_id": "jesc110-p4-c3",
+          "page": 4,
+          "score": 0.031754032258064516,
+          "content": "tes near vision.\n  These days, it is possible to correct the refractive defects with\ncontact lenses or through surgical interventions.\nQ\nU\nE\nS\nT\nI\nO\nN\nS\n?\n1.\nWhat is meant by power of accommodation of the eye?\n2.\nA person with a myopic eye cannot see objects beyond 1.2 m distinctly.\nWhat should be the type of the corrective lens used to restore proper\nvision?\n3.\nWhat is the far point and near point of the human eye with normal\nvision?\n4.\nA student has difficulty reading the blackboard while sitting in the last\nrow. What could be the defect the child is suffering from? How can it be\ncorrected?\nReprint 2026-27"
+        }
+      ]
+    }
+  },
+  {
+    "id": "q004",
+    "question": "How is hypermetropia corrected?",
+    "expected_concept": "correction using a suitable convex lens",
+    "retrievals": {
+      "bm25": [
+        {
+          "chunk_id": "jesc110-p3-c2",
+          "page": 3,
+          "score": 5.224746323413724,
+          "content": "uitable power will\nbring the image back on to the\nretina and thus the defect is corrected.\n(b)\nHypermetropia\nHypermetropia is also known as far-sightedness.\nA person with hypermetropia can see distant\nobjects clearly but cannot see nearby objects\ndistinctly. The near point, for the person, is farther\naway from the normal near point (25 cm). Such a\nperson has to keep a reading material much\nbeyond 25 cm from the eye for comfortable\nreading. This is because the light rays from a\ncloseby object are focussed at a point behind the\nretina as shown in Fig. 10.3 (b). This defect arises\neither because (i) the focal length of the eye lens is\ntoo long, or (ii) the eyeball has become too small.\nThis defect can be corrected by using a convex\nlens of appropriate power. This is illustrated in\nFig. 10.3 ("
+        },
+        {
+          "chunk_id": "jesc110-p10-c3",
+          "page": 10,
+          "score": 5.08069383402943,
+          "content": "bout\n (a)\n25 m.\n(b)  2.5 cm.\n(c)  25 cm.\n(d)  2.5 m.\n4.\nThe change in focal length of an eye lens is caused by the action of the\n (a)\npupil.\n(b)  retina.\n(c) ciliary muscles.\n(d)  iris.\n5.\nA person needs a lens of power –5.5 dioptres for correcting his distant vision. For\ncorrecting his near vision he needs a lens of power +1.5 dioptre. What is the focal\nlength of the lens required for correcting (i) distant vision, and (ii) near vision?\n6.\nThe far point of a myopic person is 80 cm in front of the eye. What is the nature and\npower of the lens required to correct the problem?\n7.\nMake a diagram to show how hypermetropia is corrected. The near point of a\nhypermetropic eye is 1 m. What is the power of the lens required to correct this\ndefect? Assume that the near point of the normal eye is 25"
+        },
+        {
+          "chunk_id": "jesc110-p10-c1",
+          "page": 10,
+          "score": 5.0035476962753345,
+          "content": "Science\n170\nWhat you have learnt\nn\nThe ability of the eye to focus on both near and distant objects, by adjusting its\nfocal length, is called the accommodation of the eye.\nn\nThe smallest distance, at which the eye can see objects clearly without strain, is\ncalled the near point of the eye or the least distance of distinct vision.  For a young\nadult with normal vision, it is about 25 cm.\nn\nThe common refractive defects of vision include myopia, hypermetropia and\npresbyopia. Myopia (short-sightedness – the image of distant objects is focussed\nbefore the retina) is corrected by using a concave lens of suitable power.\nHypermetropia (far-sightedness – the image of nearby objects is focussed beyond\nthe retina) is corrected by using a convex lens of suitable power. The eye loses its\npower of acco"
+        }
+      ],
+      "semantic": [
+        {
+          "chunk_id": "jesc110-p2-c5",
+          "page": 2,
+          "score": 0.7607775926589966,
+          "content": "(ii) Hypermetropia or far-\nsightedness, and (iii) Presbyopia.  These defects can be corrected by\nthe use of suitable spherical lenses. We discuss below these defects\nand their correction.\nReprint 2026-27"
+        },
+        {
+          "chunk_id": "jesc110-p3-c3",
+          "page": 3,
+          "score": 0.733532190322876,
+          "content": "too small.\nThis defect can be corrected by using a convex\nlens of appropriate power. This is illustrated in\nFig. 10.3 (c). Eye-glasses with converging lenses\nprovide the additional focussing power required\nfor forming the image on the retina.\n(c)   Presbyopia\nThe power of accommodation of the eye usually\ndecreases with ageing. For most people, the near\npoint gradually recedes away. They find it difficult\nto see nearby objects comfortably and distinctly\nwithout corrective eye-glasses.  This defect is\ncalled Presbyopia.  It arises due to the gradual\nFigure 10.2\nFigure 10.2\nFigure 10.2\nFigure 10.2\nFigure 10.2\n(a), (b) The myopic eye, and (c) correction for myopia with a\nconcave lens\nFigure 10.3\nFigure 10.3\nFigure 10.3\nFigure 10.3\nFigure 10.3\n(a), (b) The hypermetropic eye, and (c)\ncorrection"
+        },
+        {
+          "chunk_id": "jesc110-p3-c2",
+          "page": 3,
+          "score": 0.7186039686203003,
+          "content": "uitable power will\nbring the image back on to the\nretina and thus the defect is corrected.\n(b)\nHypermetropia\nHypermetropia is also known as far-sightedness.\nA person with hypermetropia can see distant\nobjects clearly but cannot see nearby objects\ndistinctly. The near point, for the person, is farther\naway from the normal near point (25 cm). Such a\nperson has to keep a reading material much\nbeyond 25 cm from the eye for comfortable\nreading. This is because the light rays from a\ncloseby object are focussed at a point behind the\nretina as shown in Fig. 10.3 (b). This defect arises\neither because (i) the focal length of the eye lens is\ntoo long, or (ii) the eyeball has become too small.\nThis defect can be corrected by using a convex\nlens of appropriate power. This is illustrated in\nFig. 10.3 ("
+        }
+      ],
+      "hybrid": [
+        {
+          "chunk_id": "jesc110-p3-c2",
+          "page": 3,
+          "score": 0.032266458495966696,
+          "content": "uitable power will\nbring the image back on to the\nretina and thus the defect is corrected.\n(b)\nHypermetropia\nHypermetropia is also known as far-sightedness.\nA person with hypermetropia can see distant\nobjects clearly but cannot see nearby objects\ndistinctly. The near point, for the person, is farther\naway from the normal near point (25 cm). Such a\nperson has to keep a reading material much\nbeyond 25 cm from the eye for comfortable\nreading. This is because the light rays from a\ncloseby object are focussed at a point behind the\nretina as shown in Fig. 10.3 (b). This defect arises\neither because (i) the focal length of the eye lens is\ntoo long, or (ii) the eyeball has become too small.\nThis defect can be corrected by using a convex\nlens of appropriate power. This is illustrated in\nFig. 10.3 ("
+        },
+        {
+          "chunk_id": "jesc110-p2-c5",
+          "page": 2,
+          "score": 0.031544957774465976,
+          "content": "(ii) Hypermetropia or far-\nsightedness, and (iii) Presbyopia.  These defects can be corrected by\nthe use of suitable spherical lenses. We discuss below these defects\nand their correction.\nReprint 2026-27"
+        },
+        {
+          "chunk_id": "jesc110-p10-c3",
+          "page": 10,
+          "score": 0.0315136476426799,
+          "content": "bout\n (a)\n25 m.\n(b)  2.5 cm.\n(c)  25 cm.\n(d)  2.5 m.\n4.\nThe change in focal length of an eye lens is caused by the action of the\n (a)\npupil.\n(b)  retina.\n(c) ciliary muscles.\n(d)  iris.\n5.\nA person needs a lens of power –5.5 dioptres for correcting his distant vision. For\ncorrecting his near vision he needs a lens of power +1.5 dioptre. What is the focal\nlength of the lens required for correcting (i) distant vision, and (ii) near vision?\n6.\nThe far point of a myopic person is 80 cm in front of the eye. What is the nature and\npower of the lens required to correct the problem?\n7.\nMake a diagram to show how hypermetropia is corrected. The near point of a\nhypermetropic eye is 1 m. What is the power of the lens required to correct this\ndefect? Assume that the near point of the normal eye is 25"
+        }
+      ]
+    }
+  },
+  {
+    "id": "q005",
+    "question": "Why does the sky appear blue?",
+    "expected_concept": "scattering of light",
+    "retrievals": {
+      "bm25": [
+        {
+          "chunk_id": "jesc110-p10-c4",
+          "page": 10,
+          "score": 12.014845803020272,
+          "content": "1 m. What is the power of the lens required to correct this\ndefect? Assume that the near point of the normal eye is 25 cm.\n8.\nWhy is a normal eye not able to see clearly the objects placed closer than 25 cm?\n9.\nWhat happens to the image distance in the eye when we increase the distance of an\nobject from the eye?\n10. Why do stars twinkle?\n11. Explain why the planets do not twinkle.\n12. Why does the sky appear dark instead of blue to an astronaut?\nReprint 2026-27"
+        },
+        {
+          "chunk_id": "jesc110-p9-c3",
+          "page": 9,
+          "score": 8.726088506778254,
+          "content": "ere, tiny water droplets in the mist scatter light.\nThe colour of the scattered light depends on the size of the scattering\nparticles. Very fine particles scatter mainly blue light while particles of\nlarger size scatter light of longer wavelengths.  If the size of the scattering\nparticles is large enough, then, the scattered light may even appear\nwhite.\n10.6.2 Why is the colour of the clear Sky Blue?\nThe molecules of air and other fine particles in the atmosphere have size\nsmaller than the wavelength of visible light. These are more effective in\nscattering light of shorter wavelengths at the blue end than light of longer\nwavelengths at the red end. The red light has a wavelength about 1.8\ntimes greater than blue light. Thus, when sunlight passes through the\natmosphere, the fine particles i"
+        },
+        {
+          "chunk_id": "jesc110-p9-c4",
+          "page": 9,
+          "score": 6.890837388688508,
+          "content": "elength about 1.8\ntimes greater than blue light. Thus, when sunlight passes through the\natmosphere, the fine particles in air scatter the blue colour (shorter\nwavelengths) more strongly than red. The scattered blue light enters\nour eyes. If the earth had no atmosphere, there would not have been\nany scattering. Then, the sky would have looked dark.  The sky appears\ndark to passengers flying at very high altitudes, as scattering is not\nprominent at such heights.\nYou might have observed that ‘danger’ signal lights are red in colour.\nDo you know why? The red is least scattered by fog or smoke.  Therefore,\nit can be seen in the same colour at a distance.\nReprint 2026-27"
+        }
+      ],
+      "semantic": [
+        {
+          "chunk_id": "jesc110-p9-c4",
+          "page": 9,
+          "score": 0.7393516898155212,
+          "content": "elength about 1.8\ntimes greater than blue light. Thus, when sunlight passes through the\natmosphere, the fine particles in air scatter the blue colour (shorter\nwavelengths) more strongly than red. The scattered blue light enters\nour eyes. If the earth had no atmosphere, there would not have been\nany scattering. Then, the sky would have looked dark.  The sky appears\ndark to passengers flying at very high altitudes, as scattering is not\nprominent at such heights.\nYou might have observed that ‘danger’ signal lights are red in colour.\nDo you know why? The red is least scattered by fog or smoke.  Therefore,\nit can be seen in the same colour at a distance.\nReprint 2026-27"
+        },
+        {
+          "chunk_id": "jesc110-p9-c3",
+          "page": 9,
+          "score": 0.6892192959785461,
+          "content": "ere, tiny water droplets in the mist scatter light.\nThe colour of the scattered light depends on the size of the scattering\nparticles. Very fine particles scatter mainly blue light while particles of\nlarger size scatter light of longer wavelengths.  If the size of the scattering\nparticles is large enough, then, the scattered light may even appear\nwhite.\n10.6.2 Why is the colour of the clear Sky Blue?\nThe molecules of air and other fine particles in the atmosphere have size\nsmaller than the wavelength of visible light. These are more effective in\nscattering light of shorter wavelengths at the blue end than light of longer\nwavelengths at the red end. The red light has a wavelength about 1.8\ntimes greater than blue light. Thus, when sunlight passes through the\natmosphere, the fine particles i"
+        },
+        {
+          "chunk_id": "jesc110-p8-c3",
+          "page": 8,
+          "score": 0.6867749691009521,
+          "content": "n. The star appears\nslightly higher (above) than its actual position when viewed near the\nhorizon (Fig. 10.9). Further, this apparent position of the star is not\nstationary, but keeps on changing slightly, since the physical conditions\nof the earth’s atmosphere are not stationary, as was the case in the\nprevious paragraph. Since the stars are very distant, they approximate\npoint-sized sources of light. As the path of rays of light coming from\nthe star goes on varying slightly, the apparent position of the star\nfluctuates and the amount of starlight entering the eye flickers – the\nstar sometimes appears brighter, and at some other time, fainter, which\nis the twinkling effect.\nWhy don’t the planets twinkle? The planets are much\ncloser to the earth, and are thus seen as extended sources.\nIf w"
+        }
+      ],
+      "hybrid": [
+        {
+          "chunk_id": "jesc110-p9-c4",
+          "page": 9,
+          "score": 0.032266458495966696,
+          "content": "elength about 1.8\ntimes greater than blue light. Thus, when sunlight passes through the\natmosphere, the fine particles in air scatter the blue colour (shorter\nwavelengths) more strongly than red. The scattered blue light enters\nour eyes. If the earth had no atmosphere, there would not have been\nany scattering. Then, the sky would have looked dark.  The sky appears\ndark to passengers flying at very high altitudes, as scattering is not\nprominent at such heights.\nYou might have observed that ‘danger’ signal lights are red in colour.\nDo you know why? The red is least scattered by fog or smoke.  Therefore,\nit can be seen in the same colour at a distance.\nReprint 2026-27"
+        },
+        {
+          "chunk_id": "jesc110-p9-c3",
+          "page": 9,
+          "score": 0.03225806451612903,
+          "content": "ere, tiny water droplets in the mist scatter light.\nThe colour of the scattered light depends on the size of the scattering\nparticles. Very fine particles scatter mainly blue light while particles of\nlarger size scatter light of longer wavelengths.  If the size of the scattering\nparticles is large enough, then, the scattered light may even appear\nwhite.\n10.6.2 Why is the colour of the clear Sky Blue?\nThe molecules of air and other fine particles in the atmosphere have size\nsmaller than the wavelength of visible light. These are more effective in\nscattering light of shorter wavelengths at the blue end than light of longer\nwavelengths at the red end. The red light has a wavelength about 1.8\ntimes greater than blue light. Thus, when sunlight passes through the\natmosphere, the fine particles i"
+        },
+        {
+          "chunk_id": "jesc110-p9-c1",
+          "page": 9,
+          "score": 0.029850746268656716,
+          "content": "The Human Eye and the Colourful World\n169\n10.6  SCATTERING OF LIGHT\nThe interplay of light with objects around us gives rise to several\nspectacular phenomena in nature. The blue colour of the sky, colour of\nwater in deep sea, the reddening of the sun at sunrise and the sunset\nare some of the wonderful phenomena we are familiar with. In the previous\nclass, you have learnt about the scattering of light by colloidal particles.\nThe path of a beam of light passing through a true solution is not visible.\nHowever, its path becomes visible through a colloidal solution where the\nsize of the particles is relatively larger.\n10.6.1 Tyndall Effect\nThe earth’s atmosphere is a heterogeneous mixture of minute particles.\nThese particles include smoke, tiny water droplets, suspended particles\nof dust and mo"
+        }
+      ]
+    }
+  }
+]
