@@ -1,4 +1,5 @@
 import re
+from pathlib import Path
 import numpy as np
 from fastembed import TextEmbedding
 from rank_bm25 import BM25Okapi
@@ -54,7 +55,8 @@ class SemanticRetriever:
 
         # Load the embedding model.
         self.model = TextEmbedding(
-            model_name="BAAI/bge-small-en-v1.5"
+            model_name="BAAI/bge-small-en-v1.5",
+            cache_dir=str(Path.home() / ".cache" / "fastembed"),
         )
 
         # Embed every passage once and store the vectors.

@@ -24,6 +24,7 @@ def answer_question(
                 "in the available textbook."
             ),
             "sources": [],
+            "status": "insufficient_evidence",
         }
 
     evidence_blocks = []
@@ -72,17 +73,39 @@ TEXTBOOK EVIDENCE:
 Write the answer with inline evidence IDs.
 """
 
-    response = client.models.generate_content(
-        model=model,
-        contents=prompt,
-    )
-
-    answer = response.text
+    try:
+        response = client.models.generate_content(
+            model=model,
+            contents=prompt,
+        )
+        answer = response.text
+    except Exception as exc:
+        # Keep diagnostic details limited; never expose them to the learner.
+        print(
+            f"S.A.G.E. generation failed: {type(exc).__name__}"
+        )
+        return {
+            "answer": (
+                "Answer generation is temporarily unavailable. "
+                "Your textbook evidence is still available below. "
+                "Please try again later."
+            ),
+            "sources": sources,
+            "status": "generation_unavailable",
+        }
 
     if not answer:
-        raise RuntimeError("The model returned an empty answer")
+        return {
+            "answer": (
+                "The model returned no answer. "
+                "Your retrieved textbook evidence is available below."
+            ),
+            "sources": sources,
+            "status": "empty_generation",
+        }
 
     return {
         "answer": answer,
         "sources": sources,
+        "status": "success",
     }
