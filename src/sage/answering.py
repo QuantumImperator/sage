@@ -15,7 +15,40 @@ def answer_question(
     if not question.strip():
         raise ValueError("Question cannot be empty")
 
-    chunks = retriever.search(question, top_k=top_k)
+    # Use semantic similarity as a first-pass relevance gate.
+    similarity_threshold = 0.68
+    candidate_k = max(top_k * 5, 15)
+
+    semantic_candidates = retriever.semantic.search(
+        question,
+        top_k=candidate_k,
+    )
+
+    relevant_ids = {
+        chunk["chunk_id"]
+        for chunk in semantic_candidates
+        if chunk["score"] >= similarity_threshold
+    }
+
+    # Preserve hybrid ranking, but reject weak semantic matches.
+    hybrid_candidates = retriever.search(
+        question,
+        top_k=candidate_k,
+    )
+
+    chunks = [chunk for chunk in hybrid_candidates if chunk["chunk_id"] in relevant_ids]
+
+    # Prefer the strongest semantic matches for displayed evidence.
+    semantic_scores = {
+        chunk["chunk_id"]: chunk["score"] for chunk in semantic_candidates
+    }
+
+    chunks.sort(
+        key=lambda chunk: semantic_scores.get(chunk["chunk_id"], 0.0),
+        reverse=True,
+    )
+
+    chunks = chunks[:top_k]
 
     if not chunks:
         return {
@@ -79,11 +112,10 @@ Write the answer with inline evidence IDs.
             contents=prompt,
         )
         answer = response.text
+
     except Exception as exc:
         # Keep diagnostic details limited; never expose them to the learner.
-        print(
-            f"S.A.G.E. generation failed: {type(exc).__name__}"
-        )
+        print(f"S.A.G.E. generation failed: {type(exc).__name__}")
         return {
             "answer": (
                 "Answer generation is temporarily unavailable. "
